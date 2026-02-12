@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Vanshu",
+    valentineName: "Vanshika",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -25,15 +25,15 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! Chiku ❤️ "           // Secret hover message
+            secretAnswer: "I don't like you, I love you! Kutte ❤️🤭 "           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Next 😁"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine every year? 🌹", // The big question!
+            text: "Will you marry me? My lady 💍", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -44,14 +44,14 @@ const CONFIG = {
     loveMessages: {
         extreme: "Hayyee 🤭 You love me that much?? 🎀",  // Shows when they go past 5000%
         high: "Forever asshole 💅🏻",              // Shows when they go past 1000%
-        normal: "And more than that senorita 💋"                           // Shows when they go past 100%
+        normal: "Ofc mere cutiee 💋"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest man in the world! 😎💗",
-        message: "Now come get your gift, a warm hug and a deep kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Omg !! I'm the luckiest man in the world! 😎💗",
+        message: "i cant give u any gift as of now ,so here's a warm hug for my lil pricnesss!",
+        emojis: "🤗"  // These will bounce around
     },
 
     // Color scheme for the website
